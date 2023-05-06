@@ -1,0 +1,1 @@
+# Animal-skin-disease-prediction
